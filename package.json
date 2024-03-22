@@ -1,0 +1,10 @@
+{
+  "name": "esp-8266-wifi-canals",
+  "version": "0.1.0",
+  "private": false,
+  "homepage": "https://ssserg05.github.io/esp-8266-wifi-canals",
+  "dependencies": {
+  },
+  "scripts": {
+  }
+}
